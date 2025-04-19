@@ -1,27 +1,21 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Jose W Orozco
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal Site
+# This is a Jekyll configuration file.
+# For more information, see: https://jekyllrb.com/docs/configuration/
+# For a list of available options, see: https://jekyllrb.com/docs/configuration/options/
+# For a list of available plugins, see: https://jekyllrb.com/docs/plugins/
+# For a list of available themes, see: https://jekyllrb.com/docs/themes/
+# For a list of available layouts, see: https://jekyllrb.com/docs/layouts/
+# For a list of available includes, see: https://jekyllrb.com/docs/includes/
+# For a list of available posts, see: https://jekyllrb.com/docs/posts/
+# For a list of available pages, see: https://jekyllrb.com/docs/pages/
+# For a list of available collections, see: https://jekyllrb.com/docs/collections/
+# For a list of available data files, see: https://jekyllrb.com/docs/datafiles/
+# For a list of available assets, see: https://jekyllrb.com/docs/assets/
+# For a list of available plugins, see: https://jekyllrb.com/docs/plugins/
+title: My Profile
+webpage: https://www.linkedin.com/in/jworozco/
+description: >-
+  Welcome to my personal website! I'm Jose W Orozco, an Electronics Engineer with a passion for Music. 
+  Here, you'll find insights into my work, projects, and hobbies. Let's connect and create something amazing together!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jworozco

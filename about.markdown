@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi, I'm Jose W Orozco, an Electronics engineer based in Costa Rica. I specialize in VLSI logic IP design and have a passion for Music. With more than 20 of experience in Semiconductors, I enjoy creating innovative solutions and sharing knowledge with others.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+When I'm not working, you can find me studing musical instruments, reading, coding side projects. I'm always eager to connect with like-minded individuals and collaborate on exciting projects.
 
+Feel free to reach out to me via https://www.linkedin.com/in/jworozco/.
 
-[jekyll-organization]: https://github.com/jekyll
+Thanks for visiting my page!
+
